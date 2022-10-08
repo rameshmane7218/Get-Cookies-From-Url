@@ -28,8 +28,8 @@ let interval = 1500; //15s set custom delay interval
 
 ### Step 5: Cookies
 
-    cookies will be stored in cookies.json file
-    Note: if file is not available, code will automatically create new one
+-   Cookies will be stored in cookies.json file.
+-   Note: If file is not available, It will be created automatically.
 
 ### Step 6: To stop code execution
 

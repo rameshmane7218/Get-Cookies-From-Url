@@ -5,7 +5,7 @@ const puppeteer = require("puppeteer");
  * Add website URL to get cookies
  */
 let url = "https://www.interviewbit.com/es6-interview-questions/#es6-features";
-let interval = 1500; // in seconds
+let interval = 1000 * 60; // delay
 /**
  * 1s = 1000;
  * 1min = 1000 * 60
